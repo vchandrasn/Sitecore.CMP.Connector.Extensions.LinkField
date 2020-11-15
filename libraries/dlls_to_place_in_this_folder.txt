@@ -1,0 +1,2 @@
+Sitecore.Connector.CMP.dll
+Stylelabs.M.SiteCore.Integration.Components.dll

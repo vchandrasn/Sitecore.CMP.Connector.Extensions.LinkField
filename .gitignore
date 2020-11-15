@@ -352,4 +352,5 @@ ASALocalRun/
 # BeatPulse healthcheck temp database
 healthchecksdb
 
-/libraries/
+/libraries/Sitecore.Connector.CMP.dll
+/libraries/Stylelabs.M.SiteCore.Integration.Components.dll
